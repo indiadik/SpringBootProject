@@ -1,0 +1,106 @@
+ #body1{
+  background-image: url("C:\\Users\\pc\\Downloads\\jobportal\\images\\bg_2.jpg");
+  width: 100%;
+}
+
+#header{
+	
+	
+	color: white;
+	font-weight: bolder;
+	
+      text-align: left;
+      
+}
+#present{
+  margin-top: 200px;
+  opacity: 0.9;
+  background-image: url("C:\\Users\\pc\\Downloads\\jobportal\\images\\bg_1.jpg");
+  width: 100%;
+}
+span{
+  width: 22%;
+  height: 200px;
+  float: left;
+  margin-left: 30px;
+  margin-top: 85px;
+}
+#joblist{
+  margin-top: 90px;
+}
+#testimonial{
+margin-top: 800px;
+height: 400px;
+
+}
+#testimonial span{
+  width: 30%;
+  height: 200px;
+  float: left;
+  margin-left: 30px;
+  margin-top: 85px;
+}
+#joblist  a{
+
+   text-decoration:none;
+   color:black;
+   margin: 2px;
+   display: block;
+   padding: 15px 16px;
+
+}
+
+#joblist #lr{
+  border: 1px solid grey;
+  border-radius: 3px;
+ 
+}
+#joblist a:hover{
+   color: green;
+}
+#newsletter{
+  width: 100%;
+ height: 350px;
+ background-color: rgb(0, 102, 255);
+}
+#about{
+  background-color: rgb(77, 77, 77);
+  width: 100%;
+  height: 300px;
+  
+}
+#about span{
+  width: 45%;
+  height: 200px;
+  float: left;
+  margin-left: 30px;
+  margin-top: 85px;
+
+}
+#about span i{
+  color: white;
+}
+
+ul{
+	list-style-type: none;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+li{
+	text-align: center;
+	float: right;
+	color: white;
+	display: block;
+	padding:   15px 16px;
+	
+
+}
+li a{
+	text-decoration:none;
+	color: white; 
+}
+li:hover{
+   text-decoration: underline;
+   border-right: 1px white solid; 
+}
